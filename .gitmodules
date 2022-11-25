@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/m18n/server.git
